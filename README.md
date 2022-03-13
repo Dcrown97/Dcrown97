@@ -1,10 +1,6 @@
-### Hi there 👋
-
-<!--
-**Dcrown97/Dcrown97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+Hi there 👋
+It's nice having you here.
+Feel free to checkout some of my projects on repos.
 - 🔭 I’m currently working on React Projects.
 - 🌱 I’m currently learning Node.js with ALTSchoolAfrica
 - 👯 I’m looking to collaborate on React/Laravel Projects
@@ -13,4 +9,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: aisimiyuoluwadara@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am Epicurean
--->
