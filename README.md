@@ -16,5 +16,7 @@ I'm a Software Engineer who currently works as a Laravel Developer at [Tribearc]
 
 ---
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dcrown97&label=Profile%20Visits&color=0e75b6&style=flat" alt="Number of visits to tobisupreme's GitHub" /> </p>
+
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=dcrown97&show_icons=true&include_all_commits=true&hide_border=true" alt="Darasimi's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcrown97&langs_count=8&layout=compact&hide_border=true" alt="Darasimi's GitHub stats" /> |
 | ------------- | ------------- |
