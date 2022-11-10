@@ -11,7 +11,7 @@ I'm a Software Developer who currently works as a Software Developer at [ITSkill
 - 🌱 I’m currently learning Nodejs.
 - 😊 I’m looking for help with open source projects, React Native Mobile, and laravel job opportunities.
 - 💼 Job interests: Software Engineer, Open Source Contribution.
-- 📫 You can [view my resume here](https://my-cv-wheat.vercel.app/) and contact me by emailing aisimiyuoluwadara@gmail.com.
+- 📫 You can [view my resume here](https://darasimi-cv.vercel.app/) and contact me by emailing aisimiyuoluwadara@gmail.com.
 - 📫 You can alsso [view my portfolio here](https://my-folio-tau.vercel.app/)
 
 ---
