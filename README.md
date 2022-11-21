@@ -9,7 +9,7 @@ I'm a Software Developer who currently works as a Software Developer at [ITSkill
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning Nodejs.
-- 😊 I’m looking for help with open source projects, React and React Native Mobile, and Nodejs.
+- 😊 I’m looking for help with open source projects, React and React Native, and Nodejs.
 - 💼 Job interests: Software Engineer, Open Source Contribution.
 - 📫 You can [view my resume here](https://darasimi-cv.vercel.app/) and contact me by emailing aisimiyuoluwadara@gmail.com.
 - 📫 You can alsso [view my portfolio here](https://my-folio-tau.vercel.app/)
